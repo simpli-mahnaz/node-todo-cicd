@@ -16,5 +16,5 @@ Run these commands:
 or Run by docker compose
 
 test
- checking poll scm
+ a checking poll scm
 
